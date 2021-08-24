@@ -12,3 +12,22 @@ What We do Section
 Who We are and Clients Section 
 ![alt text](https://github.com/cfbautistaofficial01/AssessmentP2/blob/main/img/widescreen_who_we_are_and_footer.png)
 
+
+
+3. On the mobile version open the mobile.css to configure the settings which should result to the following screen.
+
+
+Home Page 
+![alt text](https://github.com/cfbautistaofficial01/AssessmentP2/blob/main/img/smart_phone_home.png)
+
+What We do Section
+![alt text](https://github.com/cfbautistaofficial01/AssessmentP2/blob/main/img/smart_phone_what_we_do.png)
+
+Who We are and Clients Section 
+![alt text](https://github.com/cfbautistaofficial01/AssessmentP2/blob/main/img/smart_phone_who_we_are_and_footer.png)
+
+
+
+
+Good luck and God Bless!
+
