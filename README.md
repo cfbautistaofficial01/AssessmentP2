@@ -19,7 +19,6 @@ Who We are and Clients Section
 
 Home Page 
 ![alt text](https://github.com/cfbautistaofficial01/AssessmentP2/blob/main/img/smart_phone_home.png){:height="50%" width="50%"}
-![test image size](https://github.com/cfbautistaofficial01/AssessmentP2/blob/main/img/smart_phone_home.png){:height="50%" width="50%"}
 
 What We do Section
 ![alt text](https://github.com/cfbautistaofficial01/AssessmentP2/blob/main/img/smart_phone_what_we_do.png)
